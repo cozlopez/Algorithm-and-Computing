@@ -1,0 +1,1 @@
+pytest tests/test_mario_kart.py::test_tracks
