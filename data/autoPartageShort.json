@@ -1,0 +1,63 @@
+{
+	"nhits" : 2,
+	"stations" : [
+		{	
+			"datasetid": "stations-d-auto-partage", 
+			"recordid": "e01e1ceaee73ee78ade984eb660b9e7766b6c5d7", 
+			"fields": {
+				"commune": "TOULOUSE", 
+				"supp_annee": 0, 
+				"nb_places": 2, 
+				"no": "12", 
+				"lib_voie": "RUE DE TIVOLI", 
+				"societe": "Mobilib", 
+				"geo_point_2d": [43.59583711882989, 1.454918981287084], 
+				"secteur": "Toulouse Sud Est", 
+				"arrete": "10/098", 
+				"pole": "Centre", 
+				"id_auto": "315556873656_12", 
+				"code_insee": "31555", 
+				"mot_dir": "TIVOLI (RUE DE TIVOLI)", 
+				"geo_shape": {
+					"type": "Point", 
+					"coordinates": [1.454918981287084, 43.59583711882989]
+				}, 
+				"annee": 2010, 
+				"obervations": "arr\u00eat\u00e9 10/098 et 11/205"
+			},
+			"geometry": {
+				"type": "Point", 
+				"coordinates": [1.454918981287084, 43.59583711882989]
+			}, 
+			"record_timestamp": "2017-10-08T07:01:16+02:00"
+		},
+		{
+			"datasetid": "stations-d-auto-partage", 
+			"recordid": "93b704472968802435f0f37addd1508d40580fc8", 
+			"fields": {
+				"commune": "TOULOUSE", 
+				"supp_annee": 0, 
+				"nb_places": 2, 
+				"no": "17", 
+				"lib_voie": "RUE HENRI VALLEE", 
+				"geo_point_2d": [43.573695666687506, 1.463465331530214], 
+				"secteur": "Toulouse Sud Est", 
+				"arrete": "13/161", 
+				"pole": "Est", 
+				"id_auto": "315558347022_17", 
+				"code_insee": "31555", 
+				"mot_dir": "VALLEE (RUE HENRI VALLEE)", 
+				"geo_shape": {
+					"type": "Point", 
+					"coordinates": [1.463465331530214, 43.573695666687506]
+				}, 
+				"annee": 2013
+			}, 
+			"geometry": {
+				"type": "Point", 
+				"coordinates": [1.463465331530214, 43.573695666687506]
+			}, 
+			"record_timestamp": "2017-10-08T07:01:16+02:00"
+		}
+	]
+}
